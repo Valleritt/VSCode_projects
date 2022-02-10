@@ -28,7 +28,7 @@ const App = () => {
         </Switch>
       </Router>
     </div>
-    </ThemeContext.Provider>;
+    </ThemeContext.Provider>
   );
 };
 
